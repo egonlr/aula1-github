@@ -6,6 +6,7 @@ public class Progrma {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Bom dia");
+		System.out.println("Bom tarde");
 
 	}
 
